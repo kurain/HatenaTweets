@@ -1,0 +1,10 @@
+body {
+    background: #000;
+    font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro';
+    word-wrap:break-word;
+}
+
+#text {
+    color: #FFF;
+    font-size: 60px;
+}
